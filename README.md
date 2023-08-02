@@ -1,7 +1,7 @@
 SLSIR (Social Learning-SIR model)
 
 This package wrap up all function and analyses done for the [this paper](https://www.medrxiv.org/content/10.1101/2020.06.08.20126029v1)
- 
+And this paper: https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0262505  
 
 To install and test the function:
 ```
